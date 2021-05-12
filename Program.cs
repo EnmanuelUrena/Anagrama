@@ -8,7 +8,7 @@ namespace Anagrama
     {
         static bool verificarAnagrama(string cadena1, string cadena2){
             bool esAnagrama = true;
-            if (cadena1 == null || cadena2 == null)
+            if (cadena1 == "" || cadena2 == "")
             {
                 throw new NullReferenceException();
             }
