@@ -1,0 +1,16 @@
+C:\Users\Lia Calderon\Desktop\Proyectos\Anagrama\bin\Debug\net5.0\Anagrama.exe
+C:\Users\Lia Calderon\Desktop\Proyectos\Anagrama\bin\Debug\net5.0\Anagrama.deps.json
+C:\Users\Lia Calderon\Desktop\Proyectos\Anagrama\bin\Debug\net5.0\Anagrama.runtimeconfig.json
+C:\Users\Lia Calderon\Desktop\Proyectos\Anagrama\bin\Debug\net5.0\Anagrama.runtimeconfig.dev.json
+C:\Users\Lia Calderon\Desktop\Proyectos\Anagrama\bin\Debug\net5.0\Anagrama.dll
+C:\Users\Lia Calderon\Desktop\Proyectos\Anagrama\bin\Debug\net5.0\ref\Anagrama.dll
+C:\Users\Lia Calderon\Desktop\Proyectos\Anagrama\bin\Debug\net5.0\Anagrama.pdb
+C:\Users\Lia Calderon\Desktop\Proyectos\Anagrama\obj\Debug\net5.0\Anagrama.csprojAssemblyReference.cache
+C:\Users\Lia Calderon\Desktop\Proyectos\Anagrama\obj\Debug\net5.0\Anagrama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lia Calderon\Desktop\Proyectos\Anagrama\obj\Debug\net5.0\Anagrama.AssemblyInfoInputs.cache
+C:\Users\Lia Calderon\Desktop\Proyectos\Anagrama\obj\Debug\net5.0\Anagrama.AssemblyInfo.cs
+C:\Users\Lia Calderon\Desktop\Proyectos\Anagrama\obj\Debug\net5.0\Anagrama.csproj.CoreCompileInputs.cache
+C:\Users\Lia Calderon\Desktop\Proyectos\Anagrama\obj\Debug\net5.0\Anagrama.dll
+C:\Users\Lia Calderon\Desktop\Proyectos\Anagrama\obj\Debug\net5.0\ref\Anagrama.dll
+C:\Users\Lia Calderon\Desktop\Proyectos\Anagrama\obj\Debug\net5.0\Anagrama.pdb
+C:\Users\Lia Calderon\Desktop\Proyectos\Anagrama\obj\Debug\net5.0\Anagrama.genruntimeconfig.cache
