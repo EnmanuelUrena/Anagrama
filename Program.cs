@@ -6,7 +6,7 @@ namespace Anagrama
 {   
     class Program
     {
-        static bool verificarAnagrama(string cadena1, string cadena2){
+        public static bool verificarAnagrama(string cadena1, string cadena2){
             bool esAnagrama = true;
             if (cadena1 == "" || cadena2 == "")
             {
